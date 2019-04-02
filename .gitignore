@@ -1,4 +1,11 @@
+# Project Setting
+.classpath
+.project
+.settings
+.vscode
+
 # Compiled class file
+target/
 *.class
 
 # Log file
